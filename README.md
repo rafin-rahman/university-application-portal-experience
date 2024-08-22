@@ -47,6 +47,7 @@ I played a key role in the development and integration of the University Applica
 - **CI/CD**: Various tools for continuous integration and deployment
 - **Frameworks**: Laravel
 - **Frontend**: VueJS
+- **Database**: MySQL
 
 ## Contact
 
