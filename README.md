@@ -4,7 +4,8 @@
 
 The University Application Portal is an international platform designed to connect universities with student recruitment agencies. This system allows agencies from around the world to register and submit applications on behalf of students to universities listed on the platform.
 
-Similarly, universities can sign up to receive and review applications from a global network of recruitment agencies.
+Similarly, universities can sign up to receive and review applications from a global network of recruitment agencies. 
+Business website: www.universityapplicationportal.com
 
 ## My Role
 
@@ -47,7 +48,6 @@ I played a key role in the development and integration of the University Applica
 - **CI/CD**: Various tools for continuous integration and deployment
 - **Frameworks**: Laravel
 - **Frontend**: VueJS
-- **Database**: MySQL
 
 ## Contact
 
